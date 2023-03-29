@@ -2,7 +2,9 @@
 Formulário de contato para envio de e-mails
 
 ## Screenshot
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/37091987/228652874-1993d787-0a79-4eaf-a7a3-929deb984edb.png" width="500px" />
+</div>
 
 ## 🛠 Habilidades
 CSS, JavaScript, React, Google Fonts  e EmailJS
